@@ -14,6 +14,8 @@ Grupa studencka: WEL18DE1N1
 
 # Pytania do zadań z instrukcji
 Pytanie: W jaki sposób można rozbudować funkcjonalność programu w przypadku gdy liczba naciśnięć przycisku przekroczy określoną ilość?
-
 Odpowiedź: Należy utworzyć nową pętle która zostanie załączona po przekroczeniu maksymalnej ilości kliknięć.
+
+Pytanie: W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
+Odpowiedź: Należy dodać do pętli if następną "else if" 
 
